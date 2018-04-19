@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CCReformerKeysKit_Example' do
+  pod 'CCReformerKeysKit', :path => '../'
+
+  target 'CCReformerKeysKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
