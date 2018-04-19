@@ -37,9 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		263D072605AB907562222436 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		263D072605AB907562222436 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2C87B40CC00011ACAC274478 /* Pods_CCReformerKeysKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CCReformerKeysKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		325FD8B4F4F8E310CF73994B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		325FD8B4F4F8E310CF73994B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* CCReformerKeysKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CCReformerKeysKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,7 +64,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8EBA55C4350C3CD9AD0F8FE0 /* Pods-CCReformerKeysKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CCReformerKeysKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CCReformerKeysKit_Tests/Pods-CCReformerKeysKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D2306265746874FC0D00E0D7 /* CCReformerKeysKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CCReformerKeysKit.podspec; path = ../CCReformerKeysKit.podspec; sourceTree = "<group>"; };
+		D2306265746874FC0D00E0D7 /* CCReformerKeysKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CCReformerKeysKit.podspec; path = ../CCReformerKeysKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E0599841E3A1ED98F544A1E6 /* Pods-CCReformerKeysKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CCReformerKeysKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CCReformerKeysKit_Tests/Pods-CCReformerKeysKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E78002FD451E90E145D8718D /* Pods-CCReformerKeysKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CCReformerKeysKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CCReformerKeysKit_Example/Pods-CCReformerKeysKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

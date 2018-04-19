@@ -1,0 +1,23 @@
+PODS:
+  - CCReformerKeysKit (1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CCReformerKeysKit (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CCReformerKeysKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CCReformerKeysKit: 3170d778cba42ce42e2ffd3cd434c664d27814b8
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 848c062cfc757d94931cb21c7498b2ff6d6ace67
+
+COCOAPODS: 1.4.0
